@@ -54,6 +54,8 @@ formulario.addEventListener('submit', function (evento) {
     if (name.value != '' && email.value != '') {
 
         window.location.href = 'mostrar.html';
+
+        
     }
 
 
