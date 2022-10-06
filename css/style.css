@@ -1,0 +1,14 @@
+.nombreClase {
+    color: green;
+    background-color: aqua;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.error {
+    color: red;
+    background-color: yellow;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
